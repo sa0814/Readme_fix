@@ -1,8 +1,8 @@
-実践的な制御設計とその理論
+# 実践的な制御設計とその理論
 概要
 本コンテンツは、実例を通して制御器を設計することを紹介し、制御設計手法及び理論を効率よく学べるようにしたコンテンツである。各例題を読みながらモデルやスクリプトを順番に実行し、結果を逐次確認することができる。
 
-必要なツールボックス
+## 必要なツールボックス
 MATLAB®
 Simulink®
 Stateflow®
@@ -10,7 +10,7 @@ Control System Toolbox™
 Simulink Control Design™
 コンテンツの使い方
 1. プロジェクトを起動する
-最初に、「Control_Design_and_Theory.prj」ファイルをダブルクリックして起動する。
+### 最初に、「Control_Design_and_Theory.prj」ファイルをダブルクリックして起動する。
 
 image_0.png
 
